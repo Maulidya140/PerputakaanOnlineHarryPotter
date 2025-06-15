@@ -10,7 +10,7 @@ Aplikasi Android yang menampilkan koleksi buku Harry Potter menggunakan API ekst
 ## 📸 Screenshot
 
 ### Halaman Utama
-![List](screenshots/halamanutama)
+![List](halamanAwal.jpg)
 
 ### Halaman Detail Buku
 ![Detail](screenshots/listBuku.png)
