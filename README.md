@@ -13,16 +13,16 @@ Aplikasi Android yang menampilkan koleksi buku Harry Potter menggunakan API ekst
 ![List](halamanAwal.jpg)
 
 ### Halaman jika sensor terdeteksi
-![Detail](HalamanSensor)
+![Detail](HalamanSensor.jpg)
 
 ### Halaman login
-![Detail](HalamanSensor)
+![Detail](login2.jpg)
 
 ### Halaman register
-![Detail](HalamanSensor)
+![Detail](register.jpg)
 
 ### Notifikasi
-![Detail](HalamanSensor)
+![Detail](notifikasi.jpg)
 
 ### Halaman list buku
 ![Detail](HalamanSensor)
