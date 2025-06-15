@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600472186159",
+    "project_id": "praktikum10-99b15",
+    "storage_bucket": "praktikum10-99b15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600472186159:android:c9af74c1d72bc6ba6685da",
+        "android_client_info": {
+          "package_name": "com.dicoding.latihan_praktikum_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600472186159-8it2matadqg5rrv1bbaits54v5jtd5ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.latihan_praktikum_10",
+            "certificate_hash": "56a4844814d75dc2a25e233d1026b440ee14d94c"
+          }
+        },
+        {
+          "client_id": "600472186159-5ktf09e82931i4l8dr6ujojc1egp6edm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtWXkBI7HM_cq1j8cwTH-YW3zRELAHvNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600472186159-5ktf09e82931i4l8dr6ujojc1egp6edm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
